@@ -1,2 +1,6 @@
 # marketing-website-ui
- Website for startups
+
+Website for startups
+
+run:
+npm run dev
