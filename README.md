@@ -1,6 +1,3 @@
-# marketing-website-ui
+# Marketing Website UI
+ Demo: https://marketing-website-ui.vercel.app
 
-Website for startups
-
-run:
-npm run dev
